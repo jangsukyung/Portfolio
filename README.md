@@ -5,7 +5,7 @@
 
 - 이름 : 장수경
 - 이메일 : jangrich77@naver.com
-- 블로그 : https://github.com/jangsukyung
+- 블로그 : https://jangcoding77.tistory.com/
 
 
 ### 2. 학력
@@ -23,7 +23,7 @@
      - ?
 
   - 자격증
-     - ADsP 데이터 분석 준전문가 / 2022.11 / 한국데이터산업진흥원
+     - ADsP 데이터 분석 준전문가 / 2022.11.25 / 한국데이터산업진흥원
      - MOS Master / 2022.12 / Microsoft
      - ITQ OA Master / 2022.10 /
      - 워드프로세서 / 2022.12.09 / 대한상공회의소
